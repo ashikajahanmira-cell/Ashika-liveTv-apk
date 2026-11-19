@@ -1,6 +1,6 @@
 name: Build Ashika Live TV APK
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
